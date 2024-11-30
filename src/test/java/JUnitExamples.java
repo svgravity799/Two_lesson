@@ -21,7 +21,7 @@ static void afterAll() {
 
 @BeforeEach
 void beforeEach() {
-    System.out.println("Before Each Выполняется каждый раз перед тестом");
+    System.out.println("Before Each Выполняется каждый раз перед каждым тестом");
 }
 
 
